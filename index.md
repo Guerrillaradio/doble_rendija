@@ -1,7 +1,7 @@
 <p>El experimento de la doble rendija esta resuelto
                                            
 
-<div><font color="#fff300">0-------------------1</font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>
+<div><font color="#fff300"></font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>
 <a href="https://archive.org/details/btg-talks-benjamin-labatut-literatura-ciencia-y-delirio_202505"><div><font color="#fff300">Benjamín Labatut Literatura Ciencia Y Delirio</font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>
 <a href="https://www.bbc.com/mundo/articles/cmm9vdndzdeo"><div><font color="#fff300">Solvay 1927</font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>
 <a href="https://archive.org/details/federico-faggin-la-realidad-cuantica"><div><font color="#fff300">Federico Faggin - La realidad cuantica</font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>

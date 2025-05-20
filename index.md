@@ -1,4 +1,4 @@
-<p>==El experimento de la doble rendija esta resuelto==
+<p><mark>El experimento de la doble rendija esta resuelto<mark></mark>
 
 
 <div><font color="#fff300"></font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>                                           

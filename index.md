@@ -13,3 +13,8 @@
 
 </p>
 <a href="https://archive.org/details/2008-can-zoo-i-ndigos"><div><font color="#00ff00">c:\Canserbero\LPs + Mixtapes\</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div></a>
+
+
+<p align="right">
+<a
+href="https://guerrillaradio.github.io/accion_fantasmal_a_distancia/"><div><font color="#ff1700">铀</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
